@@ -1,0 +1,9 @@
+.footer {
+  color: #AAAAAA;
+}
+
+.footer img {
+  float: inline-end;
+  height: 25px;
+  width: 25px;
+}

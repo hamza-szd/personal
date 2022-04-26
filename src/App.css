@@ -2,3 +2,7 @@
   height: 40vmin;
   pointer-events: none;
 }
+
+.container {
+  margin: 6em 20%;
+}

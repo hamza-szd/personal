@@ -4,7 +4,7 @@ import resumeUrl from './DamianReiterResume2022.pdf'
 
 function Intro() {
   return (
-    <div className="container">
+    <div>
       <div className="head">
         <span className="intro" style={{ width: '50%', float: 'left', }}><b>Hi, I'm Damian</b></span>
         <span className="links" style={{ width: '50%', float: 'right', textAlign: 'right' }}><a href="https://github.com/Damian-R" target="_blank">[github]</a> <a href="https://www.linkedin.com/in/damianreiter/" target="_blank">[linkedin]</a> <a href={resumeUrl} target="_blank">[resume]</a></span>
@@ -28,7 +28,7 @@ function Intro() {
         </ul>
 
         <p>
-          In my free time I climb fake rocks, volley balls, and play competitive video games. 
+          In my free time I like to climb rocks, volley balls, and compete in video game tournaments. 
         </p>
 
         <p>
