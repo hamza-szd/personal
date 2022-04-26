@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #121619;
+  color: #DDDDDD;
+}
+
+code {
+  font-family: 'Space Mono', Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* 
+blue: #87F1FF 
+pink: #EE4266
+yellow: #FFD23F
+green: #0EAD69
+*/

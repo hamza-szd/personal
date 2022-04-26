@@ -1,0 +1,75 @@
+ul {
+  list-style-type: '- ';
+}
+
+li {
+  margin-top: 1em;
+}
+
+.container {
+  margin: 8em 20%;
+}
+
+.intro {
+  text-shadow: 0 0 2px #CCCCCC, 0 0 4px #BBBBBB;
+}
+
+.head {
+  overflow: auto;
+}
+
+span.glow-green {
+  color: #3DDC97;
+  text-shadow: 0 0 2px #3DDC97, 0 0 4px #3DDC97;
+}
+
+span.glow-blue {
+  color: #87F1FF;
+  text-shadow: 0 0 2px #87F1FF, 0 0 4px #87F1FF;
+}
+
+span.glow-yellow {
+  color: #FFD23F;
+  text-shadow: 0 0 2px #FFD23F, 0 0 4px #FFD23F;
+}
+
+span.glow-pink {
+  color: #EE4266;
+  text-shadow: 0 0 2px #EE4266, 0 0 4px #EE4266;
+}
+
+span.glow-white {
+  text-shadow: 0 0 2px #CCCCCC, 0 0 4px #BBBBBB;
+}
+
+.desc {
+  margin-top: 2em;
+}
+
+.desc a {
+  color: #DDDDDD
+}
+
+.links a {
+  text-decoration: none;
+  color: #AAAAAA;
+}
+
+a:link {
+  color: #87F1FF;
+}
+
+/* visited link */
+a.links:visited {
+  color: #AAAAAA;
+}
+
+/* mouse over link */
+a:hover {
+  color: #87F1FF;
+}
+
+/* selected link */
+a:active {
+  color: #87F1FF;
+}
