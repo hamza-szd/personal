@@ -6,8 +6,8 @@ function Intro() {
   return (
     <div>
       <div className="head">
-        <span className="intro" style={{ width: '50%', float: 'left', }}><b>Hi, I'm Damian</b></span>
-        <span className="links" style={{ width: '50%', float: 'right', textAlign: 'right' }}><a href="https://github.com/Damian-R" target="_blank">[github]</a> <a href="https://www.linkedin.com/in/damianreiter/" target="_blank">[linkedin]</a> <a href={resumeUrl} target="_blank">[resume]</a></span>
+        <span className="intro" style={{ width: '50%', float: 'left', }}><b>Hey, I'm Damian</b></span>
+        <span className="links" style={{ width: '50%', float: 'right', textAlign: 'right' }}><a href="https://github.com/dmreiter" target="_blank">[github]</a> <a href="https://www.linkedin.com/in/damianreiter/" target="_blank">[linkedin]</a> <a href={resumeUrl} target="_blank">[resume]</a></span>
       </div>
       <hr/>
       <div className="desc">
