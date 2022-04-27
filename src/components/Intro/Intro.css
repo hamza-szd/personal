@@ -51,10 +51,6 @@ span.glow-white {
   color: #AAAAAA;
 }
 
-a:link {
-  color: #87F1FF;
-}
-
 /* visited link */
 a.links:visited {
   color: #AAAAAA;
@@ -62,10 +58,5 @@ a.links:visited {
 
 /* mouse over link */
 a:hover {
-  color: #87F1FF;
-}
-
-/* selected link */
-a:active {
   color: #87F1FF;
 }
