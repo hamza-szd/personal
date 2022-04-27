@@ -6,3 +6,16 @@
 .container {
   margin: 6em 20%;
 }
+
+#gradient-canvas {
+  position: absolute;
+  top: -615px;
+  translate: -10px;
+  width: 110vw;
+  transform: rotate(-1.5deg);
+
+  --gradient-color-1: #6ec3f4;
+  --gradient-color-2: #3a3aff;
+  --gradient-color-3: #ff61ab;
+  --gradient-color-4: #E63946;
+}
