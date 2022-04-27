@@ -13,10 +13,11 @@ body {
 
 #gradient-canvas {
   position: absolute;
-  top: -615px;
-  translate: -10px;
+  top: -620px;
+  left: -10px;
+  filter: blur(0.001px);
   width: 110vw;
-  transform: rotate(-1.5deg);
+  transform: rotate(-1.3deg);
 
   --gradient-color-1: #6ec3f4;
   --gradient-color-2: #3a3aff;
