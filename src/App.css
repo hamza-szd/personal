@@ -7,6 +7,10 @@
   margin: 6em 20%;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 #gradient-canvas {
   position: absolute;
   top: -615px;
