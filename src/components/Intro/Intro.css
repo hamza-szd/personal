@@ -7,7 +7,7 @@ li {
 }
 
 .intro {
-  text-shadow: 0 0 2px #CCCCCC, 0 0 3px #BBBBBB;
+  text-shadow: 0 0 1px #CCCCCC, 0 0 3px #BBBBBB;
 }
 
 .head {
@@ -16,26 +16,26 @@ li {
 
 span.glow-green {
   color: #3DDC97;
-  text-shadow: 0 0 2px #3DDC97, 0 0 4px #3DDC97;
+  text-shadow: 0 0 1px #3DDC97, 0 0 3px #3DDC97;
 }
 
 span.glow-blue {
   color: #87F1FF;
-  text-shadow: 0 0 2px #87F1FF, 0 0 4px #87F1FF;
+  text-shadow: 0 0 1px #87F1FF, 0 0 3px #87F1FF;
 }
 
 span.glow-yellow {
   color: #FFD23F;
-  text-shadow: 0 0 2px #FFD23F, 0 0 4px #FFD23F;
+  text-shadow: 0 0 1px #FFD23F, 0 0 3px #FFD23F;
 }
 
 span.glow-pink {
   color: #EE4266;
-  text-shadow: 0 0 2px #EE4266, 0 0 4px #EE4266;
+  text-shadow: 0 0 1px #EE4266, 0 0 3px #EE4266;
 }
 
 span.glow-white {
-  text-shadow: 0 0 2px #CCCCCC, 0 0 4px #BBBBBB;
+  text-shadow: 0 0 1px #CCCCCC, 0 0 3px #BBBBBB;
 }
 
 .desc {
