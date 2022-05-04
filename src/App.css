@@ -14,8 +14,8 @@ body {
 #gradient-canvas {
   position: absolute;
   transform: translateY(-115.5%);
-  --gradient-color-1: #6ec3f4;
-  --gradient-color-2: #3a3aff;
-  --gradient-color-3: #ff61ab;
-  --gradient-color-4: #E63946;
+  --gradient-color-1: #a960ee;
+  --gradient-color-2: #ff333d;
+  --gradient-color-3: #90e0ff;
+  --gradient-color-4: #ffcb57;
 }
