@@ -12,9 +12,13 @@ function Intro() {
       <hr/>
       <div className="desc">
         <p>
-          I am a Software Engineering Student @ UWaterloo (class of 2023). I'll be working as an intern at <span className='glow-blue'>Snowflake</span> in San Mateo this Fall, on the Database Query Engine team.
+          I am a Software Engineering Student @ UWaterloo (class of 2023).
         </p>
-        
+
+	<p>
+	I'll be working as an intern at <span className='glow-blue'>Snowflake</span> this Fall, on the <span className='glow-white'>Database Query Engine</span> team.
+	</p>
+
         <p>
           I have completed <span className='glow-white'>7 internships</span> at companies like <span className='glow-green'>Shopify</span>, <span className='glow-yellow'>Splunk</span>, <span className='glow-blue'>BitGo</span>, among others, in roles ranging from Software Engineering to Data Science and Blockchain Engineering.
         </p>
