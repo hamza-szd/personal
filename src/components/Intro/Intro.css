@@ -14,19 +14,32 @@ li {
   overflow: auto;
 }
 
-span.glow-green {
+span.glow-green a {
   color: #3DDC97;
   text-shadow: 0 0 1px #3DDC97, 0 0 3px #3DDC97;
+  text-decoration: none;
 }
 
-span.glow-blue {
+span.glow-blue a {
   color: #87F1FF;
   text-shadow: 0 0 1px #87F1FF, 0 0 3px #87F1FF;
+  text-decoration: none;
 }
 
-span.glow-yellow {
+span.glow-darkblue a {
+  color: #87cfff;
+  text-shadow: 0 0 1px #87F1FF, 0 0 3px #87F1FF;
+  text-decoration: none;
+}
+
+span.glow-yellow a {
   color: #FFD23F;
   text-shadow: 0 0 1px #FFD23F, 0 0 3px #FFD23F;
+  text-decoration: none;
+}
+
+span a:hover {
+  color: #87F1FF;
 }
 
 span.glow-pink {
@@ -43,7 +56,8 @@ span.glow-white {
 }
 
 .desc a {
-  color: #DDDDDD
+  color: #DDDDDD;
+  text-decoration: none;
 }
 
 .links a {

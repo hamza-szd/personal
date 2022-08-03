@@ -15,20 +15,20 @@ function Intro() {
           I am a Software Engineering Student @ UWaterloo (class of 2023).
         </p>
 
-	<p>
-	I'll be working as an intern at <span className='glow-blue'>Snowflake</span> this Fall, on the <span className='glow-white'>Database Query Engine</span> team.
-	</p>
+        <p>
+        I'll be working as an intern at <span className='glow-blue'><a href='https://www.snowflake.com/'>Snowflake</a></span> this Fall, on the <span className='glow-white'>Database Query Engine</span> team.
+        </p>
 
         <p>
-          I have completed <span className='glow-white'>7 internships</span> at companies like <span className='glow-green'>Shopify</span>, <span className='glow-yellow'>Splunk</span>, <span className='glow-blue'>BitGo</span>, among others, in roles ranging from Software Engineering to Data Science and Blockchain Engineering.
+          I have completed <span className='glow-white'>7 internships</span> at companies like <span className='glow-green'><a href='https://www.shopify.com/'>Shopify</a></span>, <span className='glow-yellow'><a href='https://www.splunk.com/'>Splunk</a></span>, <span className='glow-darkblue'><a href='https://www.bitgo.com/'>BitGo</a></span>, among others, in roles ranging from Software Engineering to Data Science and Blockchain Engineering.
         </p>
 
         <p>Some things I've done at those internships include:</p>
         <ul className='list'>
-          <li>Developing support for the <span className='glow-pink'><a href='https://lightning.network/lightning-network-summary.pdf' target="_blank">Lightning Network protocol</a></span> at <span className='glow-blue'>BitGo</span>, allowing customers to make Bitcoin transactions with {'>'}99% reduced fees and processing times</li>
-          <li>Researching, designing, and developing a <span className='glow-pink'><a href='https://docs.splunk.com/Documentation/ES/7.0.1/BehavioralAnalytics/Risklevelandscores' target="_blank">new risk scoring system</a></span> at <span className='glow-yellow'>Splunk</span></li>
-          <li>Supporting multiple product and data teams at <span className='glow-green'>Shopify</span> by performing data analysis, creating data models, and providing data-driven recommendations</li>
-          <li>Contributing to <span className='glow-green'>Shopify's</span> internal all-in-one org-wide productivity/context sharing app, <span className='glow-pink'><a href='https://vimeo.com/456735890' target="_blank">the Vault</a></span></li>
+          <li>Developing support for the <span className='glow-pink'><a href='https://lightning.network/lightning-network-summary.pdf' target="_blank">Lightning Network protocol</a></span> at <span className='glow-darkblue'><a href='https://www.bitgo.com/'>BitGo</a></span>, allowing customers to make Bitcoin transactions with {'>'}99% reduced fees and processing times</li>
+          <li>Researching, designing, and developing a <span className='glow-pink'><a href='https://docs.splunk.com/Documentation/ES/7.0.1/BehavioralAnalytics/Risklevelandscores' target="_blank">new risk scoring system</a></span> at <span className='glow-yellow'><a href='https://www.splunk.com/'>Splunk</a></span></li>
+          <li>Supporting multiple product and data teams at <span className='glow-green'><a href='https://www.shopify.com/'>Shopify</a></span> by performing data analysis, creating data models, and providing data-driven recommendations</li>
+          <li>Contributing to <span className='glow-green'><a href='https://www.shopify.com/'>Shopify's</a> </span>internal all-in-one org-wide productivity/context sharing app, <span className='glow-pink'><a href='https://vimeo.com/456735890' target="_blank">the Vault</a></span></li>
         </ul>
 
         <p>
