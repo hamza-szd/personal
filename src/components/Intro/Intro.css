@@ -38,6 +38,13 @@ span.glow-yellow a {
   text-decoration: none;
 }
 
+span.glow-brown a {
+  color: #d8a149;
+  text-shadow: 0 0 1px #91662a, 0 0 3px #91662a;
+  text-decoration: none;
+}
+
+
 span a:hover {
   color: #87F1FF;
 }
