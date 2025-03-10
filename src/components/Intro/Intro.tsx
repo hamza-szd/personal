@@ -26,8 +26,8 @@ function Intro() {
       <hr />
       <div className="desc">
         <p>
-          I'm currently studying a B.S. in Computer Science and a B.A in
-          Financial Economics @{" "}
+          I'm currently studying towards a B.S. in Computer Science and a B.A in
+          Economics (on the Finance track) @{" "}
           <span className="glow-brown">
             <a href="https://www.brown.edu/">Brown.</a>
           </span>
