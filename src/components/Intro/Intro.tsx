@@ -4,7 +4,7 @@ import "./Intro.css";
 function Intro() {
   return (
     <div>
-      <img src="public/bookgif.gif" alt="Animated book logo"></img>
+      <img src="/bookgif.gif" alt="Animated book logo"></img>
       <div className="head">
         <span className="intro" style={{ width: "50%", float: "left" }}>
           <b>Hey, I'm Hamza</b>
