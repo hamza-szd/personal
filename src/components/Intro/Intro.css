@@ -1,5 +1,5 @@
 ul {
-  list-style-type: '- ';
+  list-style-type: "- ";
 }
 
 li {
@@ -7,7 +7,11 @@ li {
 }
 
 .intro {
-  text-shadow: 0 0 1px #CCCCCC, 0 0 3px #BBBBBB;
+  text-shadow: 0 0 1px #cccccc, 0 0 3px #bbbbbb;
+}
+
+img {
+  width: 50px;
 }
 
 .head {
@@ -15,26 +19,26 @@ li {
 }
 
 span.glow-green a {
-  color: #3DDC97;
-  text-shadow: 0 0 1px #3DDC97, 0 0 3px #3DDC97;
+  color: #3ddc97;
+  text-shadow: 0 0 1px #3ddc97, 0 0 3px #3ddc97;
   text-decoration: none;
 }
 
 span.glow-blue a {
-  color: #87F1FF;
-  text-shadow: 0 0 1px #87F1FF, 0 0 3px #87F1FF;
+  color: #87f1ff;
+  text-shadow: 0 0 1px #87f1ff, 0 0 3px #87f1ff;
   text-decoration: none;
 }
 
 span.glow-darkblue a {
   color: #87cfff;
-  text-shadow: 0 0 1px #87F1FF, 0 0 3px #87F1FF;
+  text-shadow: 0 0 1px #87f1ff, 0 0 3px #87f1ff;
   text-decoration: none;
 }
 
 span.glow-yellow a {
-  color: #FFD23F;
-  text-shadow: 0 0 1px #FFD23F, 0 0 3px #FFD23F;
+  color: #ffd23f;
+  text-shadow: 0 0 1px #ffd23f, 0 0 3px #ffd23f;
   text-decoration: none;
 }
 
@@ -44,18 +48,17 @@ span.glow-brown a {
   text-decoration: none;
 }
 
-
 span a:hover {
-  color: #87F1FF;
+  color: #87f1ff;
 }
 
 span.glow-pink {
-  color: #EE4266;
-  text-shadow: 0 0 1px #EE4266, 0 0 3px #EE4266;
+  color: #ee4266;
+  text-shadow: 0 0 1px #ee4266, 0 0 3px #ee4266;
 }
 
 span.glow-white {
-  text-shadow: 0 0 1px #CCCCCC, 0 0 3px #BBBBBB;
+  text-shadow: 0 0 1px #cccccc, 0 0 3px #bbbbbb;
 }
 
 .desc {
@@ -63,21 +66,21 @@ span.glow-white {
 }
 
 .desc a {
-  color: #DDDDDD;
+  color: #dddddd;
   text-decoration: none;
 }
 
 .links a {
   text-decoration: none;
-  color: #AAAAAA;
+  color: #aaaaaa;
 }
 
 /* visited link */
 a.links:visited {
-  color: #AAAAAA;
+  color: #aaaaaa;
 }
 
 /* mouse over link */
 a:hover {
-  color: #87F1FF;
+  color: #87f1ff;
 }

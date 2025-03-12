@@ -4,6 +4,10 @@ import "./Intro.css";
 function Intro() {
   return (
     <div>
+      <img
+        src="src/components/Intro/bookgif.gif"
+        alt="Animated book logo" 
+      ></img>
       <div className="head">
         <span className="intro" style={{ width: "50%", float: "left" }}>
           <b>Hey, I'm Hamza</b>
